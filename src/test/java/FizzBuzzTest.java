@@ -32,4 +32,5 @@ public class FizzBuzzTest {
     public void test() {
         assertThat(FizzBuzz.of(number)).isEqualTo(expectedResult);
     }
+
 }
